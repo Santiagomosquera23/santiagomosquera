@@ -6,12 +6,12 @@
 ---
 
 ### 🚀 Sobre Mí
-[cite_start]Soy un **Ingeniero Electrónico** [cite: 37] apasionado por la tecnología, el desarrollo de software y la **Inteligencia Artificial**. Busco mi primera oportunidad profesional para aplicar mis conocimientos en entornos de desarrollo ágiles y proyectos de automatización.
+Soy un **Ingeniero Electrónico** apasionado por la tecnología, el desarrollo de software y la **Inteligencia Artificial**. Busco mi primera oportunidad profesional para aplicar mis conocimientos en entornos de desarrollo ágiles y proyectos de automatización.
 
-- [cite_start]🎓 **Graduado en 2026 de la Universidad Industrial de Santander (UIS)**.
-- [cite_start]🤖 Experiencia en **Automatización con n8n** y arquitecturas **RAG**[cite: 13, 14, 15].
+- 🎓 **Graduado en 2026 de la Universidad Industrial de Santander (UIS)**.
+- 🤖 Experiencia en **Automatización con n8n** y arquitecturas **RAG**.
 - 💻 Desarrollador con bases sólidas en **Python, Java y control de versiones (Git)**.
-- [cite_start]📍 Ubicado en **Bucaramanga, Santander**[cite: 3].
+- 📍 Ubicado en **Bucaramanga, Santander**.
 
 ---
 
@@ -28,9 +28,9 @@
 ---
 
 ### ✨ Habilidades Blandas (Soft Skills)
-- [cite_start]🤝 **Trabajo en Equipo:** Colaboré activamente en grupos de investigación como RadioGis y Green Smart Environment[cite: 21, 26].
-- [cite_start]🧩 **Resolución de Problemas:** Enfoque analítico desarrollado a través de la ingeniería electrónica para optimizar procesos y flujos de datos[cite: 23, 28].
-- [cite_start]💡 **Adaptabilidad y Aprendizaje Continuo:** Capacidad para integrar rápidamente nuevos stacks tecnológicos y herramientas de IA[cite: 13, 40].
+- 🤝 **Trabajo en Equipo:** Colaboré activamente en grupos de investigación como **RadioGis** y **Green Smart Environment**.
+- 🧩 **Resolución de Problemas:** Enfoque analítico desarrollado para optimizar procesos y flujos de datos técnicos.
+- 💡 **Adaptabilidad:** Capacidad para integrar rápidamente nuevos stacks tecnológicos y herramientas de IA.
 
 ---
 
@@ -44,8 +44,8 @@
 ### 📂 Proyectos Destacados
 | Proyecto | Descripción | Tech |
 | :--- | :--- | :--- |
-| **Agente IA Híbrido** | [cite_start]Automatización ETL y búsqueda RAG (Reducción 80% tiempo)[cite: 14, 15]. | `Python` `n8n` `PostgreSQL` |
-| **IoT Smart Security** | [cite_start]Monitoreo perimetral con alertas en tiempo real vía Telegram[cite: 18, 19]. | `Node-RED` `MariaDB` `Power BI` |
+| **Agente IA Híbrido** | Automatización ETL y búsqueda RAG (Reducción 80% tiempo). | `Python` `n8n` `PostgreSQL` |
+| **IoT Smart Security** | Monitoreo perimetral con alertas en tiempo real vía Telegram. | `Node-RED` `MariaDB` `Power BI` |
 
 ---
 
